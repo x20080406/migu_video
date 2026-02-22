@@ -1,4 +1,5 @@
 央视频道,#genre#
+CCTV1综合,http://pull-hs-f5.flive.douyincdn.com/media/stream-407126123804099244/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772320043&major_anchor_level=common&sign=0d8496a4e7a6cf07a04af868a3ca6898&t_id=037-20260222070723724E0EABA8F8D4E46263-6Ahcix&volcSecret=0d8496a4e7a6cf07a04af868a3ca6898&volcTime=1772320043
 CCTV1综合,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
@@ -65,6 +66,7 @@ CCTV5体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
+宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 北京地区,#genre#
 黑龙江地区,#genre#
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
@@ -302,10 +304,10 @@ CCTV5体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 青海地区,#genre#
 放映室6,#genre#
 超清频道,#genre#
+CCTV1超清,http://pull-hs-f5.flive.douyincdn.com/media/stream-407126123804099244/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772320043&major_anchor_level=common&sign=0d8496a4e7a6cf07a04af868a3ca6898&t_id=037-20260222070723724E0EABA8F8D4E46263-6Ahcix&volcSecret=0d8496a4e7a6cf07a04af868a3ca6898&volcTime=1772320043
 CCTV1超清,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV3超清,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV5超清,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-CCTV13超清,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=2202208864&pid=2028597139&timestamp=20260221172531&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=123.4.227.234&SecurityKey=20260221172531&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0a33dfaaa98d09fb8b48439c4dd47362&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1771665928913&prlId=4f89b0f1d885527a227fd4a636419cfe1771665928928&jid=4f89b0f1d885527a227fd4a636419cfe1771665928060V&is_advertise=0&sjid=subsession_1771665971159
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视超清,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
