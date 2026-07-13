@@ -21,6 +21,10 @@ http://183.234.143.5:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 http://183.234.143.5:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="" group-title="广东地区",广东影视
 http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="深圳少儿" tvg-name="深圳少儿" tvg-logo="" group-title="广东地区",深圳少儿
+http://120.233.73.4:19901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="" group-title="广东地区",深圳都市
+http://120.233.73.4:19901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="" group-title="浙江地区",浙江少儿
 http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="" group-title="浙江地区",浙江少儿
@@ -441,8 +445,6 @@ http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
 http://live.dxhmt.cn:9081/tv/10183-2.m3u8
 #EXTINF:-1 tvg-id="天津影视" tvg-name="天津影视" tvg-logo="" group-title="天津地区",天津影视
 http://60.26.15.49:85/tsfile/live/17/1003.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="天津都市" tvg-name="天津都市" tvg-logo="" group-title="天津地区",天津都市
-http://60.26.15.49:85/tsfile/live/21/1004.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="天津教育" tvg-name="天津教育" tvg-logo="" group-title="天津地区",天津教育
 http://60.26.15.49:85/tsfile/live/29/1006.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="嘉峪关综合" tvg-name="嘉峪关综合" tvg-logo="" group-title="甘肃地区",嘉峪关综合
